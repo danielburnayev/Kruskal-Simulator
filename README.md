@@ -2,7 +2,7 @@
 
 A customizable GUI that allows you to see how Kruskal's Algorithm works for the graph that you can make.
 
-<img src='Kruskal\ Algorithm\ Demo\ Gif\ Simulation\ Mode.gif' title='Simulation Mode' width='' alt='Simulation Mode' />
+<img src='Kruskal Algorithm Demo Gif Simulation Mode.gif' title='Simulation Mode' width='' alt='Simulation Mode' />
 
 ## How to run the simulator:
 1. Download the [src.zip file](src.zip) and open it
