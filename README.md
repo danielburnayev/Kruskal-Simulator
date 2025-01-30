@@ -1,6 +1,6 @@
 # Kruskal-Simulator
 
-A GUI that shows you the step-by-step process Kruskal's Algorithm takes when determining the minimum spanning tree of a customizable graph that can be changed. This is the final project of GMU's Data Structures class (CS 310), with the following being my contributions to the project:
+A GUI that shows you the step-by-step process Kruskal's Algorithm takes when determining the minimum spanning tree of a customizable graph that can be changed, with the bullet points below being my contributions to the project:
 * Wrote the majority of the Graph310 class
 * Included methods for binary search trees such as removeMax(), findMax(), and values() in the WeissBST class
 * Wrote methods for representing the keys and values of a map with keySet() and values() in the Map310 class
