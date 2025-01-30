@@ -15,6 +15,8 @@ A GUI that shows you the step-by-step process Kruskal's Algorithm takes when det
 ## Editing Mode
 <img src='Kruskal Algorithm Demo Gif Editing Mode.gif' title='Editing Mode' width='' alt='Editing Mode' />
 
+GIFs were created with [LICEcap](https://www.cockos.com/licecap/) for MacOS
+
 ## How to run the simulator:
 1. Download the [src.zip file](src.zip) and open it
 2. Open your terminal and direct it to the newly created src directory
