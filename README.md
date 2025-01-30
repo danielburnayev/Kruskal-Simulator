@@ -18,7 +18,7 @@ A GUI that shows you the step-by-step process Kruskal's Algorithm takes when det
 ## How to run the simulator:
 1. Download the [src.zip file](src.zip) and open it
 2. Open your terminal and direct it to the newly created src directory
-3. Compile all the Java files with the following command: <strong>javac -cp 310libs.jar *.java</strong> (shouldn't be necessary; only do this when all the class files aren't there)
+3. Compile all the Java files with the following command: <strong>javac -cp 310libs.jar *.java</strong> (shouldn't be necessary; only do this when not all the class files aren't there)
 4. Run the simulator with following command: <strong>java -cp .:310libs.jar SimGUI</strong> (do <strong>java -cp .;310libs.jar SimGUI</strong> if you are on Windows)
 
 
